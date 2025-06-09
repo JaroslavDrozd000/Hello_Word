@@ -21,10 +21,10 @@
 ```
 Hello_Word/
 │
-├── index.html         # Main HTML file
-├── style.css          # CSS styles
-├── script.js          # JavaScript game logic
-└── assets/            # (Optional) Images, sounds, fonts
+├── index.html
+├── style.css
+├── script.js
+└── assets/
 ```
 
 ## ✨ Preview
