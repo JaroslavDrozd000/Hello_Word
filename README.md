@@ -1,6 +1,6 @@
-# Hello Wordl 🎯🔤
+# Hello Word 🎯🔤
 
-**Hello Wordl** is a browser-based word puzzle game inspired by the original [Wordle](https://www.nytimes.com/games/wordle/index.html)
+**Hello Word** is a browser-based word puzzle game inspired by the original [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
 ## 🕹️ How to Play
 
@@ -29,4 +29,4 @@ hello-world/
 
 ## ✨ Preview
 
-Live demo: [yourusername.github.io/hello-world-web-game](https://yourusername.github.io/hello-world-web-game)
+Live demo: ---
