@@ -19,7 +19,7 @@
 ## 📁 Project Structure
 
 ```
-hello-world/
+Hello_Word/
 │
 ├── index.html         # Main HTML file
 ├── style.css          # CSS styles
